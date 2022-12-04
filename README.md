@@ -1,6 +1,6 @@
 # Awesome chatGPT 
 
-Curated list of awesome tools, demos, docs for [chatGPT](https://chat.openai.com) and GPT-3 from OpenAI.
+> Curated list of resources for [chatGPT](https://chat.openai.com) and GPT-3 from OpenAI
 
 #### GPT General Resources
 
@@ -12,16 +12,22 @@ Curated list of awesome tools, demos, docs for [chatGPT](https://chat.openai.com
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
 
-### API
-- [Unofficial nodejs API](https://github.com/transitive-bullshit/chatgpt-api)
+### API tools
+- [Unofficial API using a headless browser](https://github.com/transitive-bullshit/chatgpt-api)
 
 
 #### Third-party extensions
 
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
-- [VScode extension (unofficial)](https://github.com/mpociot/chatgpt-vscode)
+- [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
+- [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram)
+- [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT ✨
 
-Node.js wrapper around ChatGPT. Uses headless Chrome until the official API is released.
+
+lpociot/status/1599180144551526400))
+
+
+
 
 
 ---
