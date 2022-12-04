@@ -2,10 +2,6 @@
 
 Curated list of awesome tools, demos, docs for [chatGPT](https://chat.openai.com) and GPT-3 from OpenAI.
 
-### React
-
-> JavaScript Library for building User Interfaces
-
 #### GPT General Resources
 
 - [ChatGPT Official App](https://chat.openai.com)
