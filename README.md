@@ -14,6 +14,7 @@
 
 ### API tools
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
+- [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Unofficial API using a headless browser](https://github.com/transitive-bullshit/chatgpt-api)
 
 
@@ -22,18 +23,21 @@
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
 
 
-#### Access ChatGPT from other platforms
+### Access ChatGPT from other platforms
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram)
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT
 - [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension)
+- [Google docs](https://github.com/cesarhuret/docGPT)
 
 
-#### Prompts
+### CLI tools
+- [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
+
+### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) 
-
 
 
 
