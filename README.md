@@ -1,14 +1,14 @@
-# Awesome chatGPT 
+# Awesome ChatGPT 
 
-> Curated list of resources for [chatGPT](https://chat.openai.com) and GPT-3 from OpenAI
+> Curated list of resources for [ChatGPT](https://chat.openai.com) and GPT-3 from OpenAI
 
 #### GPT General Resources
 
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
+- [chatGPT launch blog](https://openai.com/blog/chatgpt/)
 
-#### ChatGPT Community
-
+#### ChatGPT Community / Discussion
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
 
@@ -22,10 +22,6 @@
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram)
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT ✨
-
-
-lpociot/status/1599180144551526400))
-
 
 
 
