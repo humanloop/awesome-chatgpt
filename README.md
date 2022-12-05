@@ -13,7 +13,10 @@
 
 
 ### API tools
+- [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
 - [Unofficial API using a headless browser](https://github.com/transitive-bullshit/chatgpt-api)
+
+
 
 
 #### Third-party extensions
@@ -22,6 +25,7 @@
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram)
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT
+- [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension)
 
 
 #### Prompts
