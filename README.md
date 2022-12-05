@@ -1,5 +1,7 @@
 # Awesome ChatGPT 
 
+![ChatGPT](/chatgpt.png)
+
 > Curated list of resources for [ChatGPT](https://chat.openai.com) and GPT-3 from OpenAI
 
 #### GPT General Resources
