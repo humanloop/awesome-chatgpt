@@ -17,7 +17,7 @@
 
 
 #### Third-party extensions
-
+- [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram)
