@@ -33,6 +33,7 @@
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT
 - [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Google docs](https://github.com/cesarhuret/docGPT)
+- [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
 
 
 ### CLI tools
