@@ -36,6 +36,7 @@
 - [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Google docs](https://github.com/cesarhuret/docGPT)
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
+- [Flutter ChatGPT API](https://github.com/coskuncay/flutter_chatgpt_api)
 
 
 ### CLI tools
