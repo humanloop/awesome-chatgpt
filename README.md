@@ -41,6 +41,9 @@
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 
+### Github Actions
+- [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
+
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) 
 ... just follow [@goodside](https://twitter.com/goodside)
