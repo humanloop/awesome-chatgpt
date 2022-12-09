@@ -32,6 +32,7 @@
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
+- [VSCode extension](https://github.com/gencay/vscode-chatgpt) ([marketplace](https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt))
 - [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram)
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT
 - [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension)
