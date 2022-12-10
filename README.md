@@ -17,7 +17,7 @@
 ### API tools
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
-- [Unofficial API using a headless browser](https://github.com/transitive-bullshit/chatgpt-api)
+- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 
 
