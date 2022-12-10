@@ -28,6 +28,7 @@
 
 
 ### Access ChatGPT from other platforms
+- [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
@@ -36,11 +37,15 @@
 - [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Google docs](https://github.com/cesarhuret/docGPT)
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
-- [Windows, Mac, Linux desktop app](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
+- [Multi-platform desktop app | Windows, Mac, Linux](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
+- [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
 
 
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
+
+### Github Actions
+- [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) 
