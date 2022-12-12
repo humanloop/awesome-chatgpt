@@ -39,6 +39,9 @@
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
 - [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
 
+### Social Tools
+- [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
+
 
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
