@@ -51,6 +51,7 @@
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
 
 ### Example prompts
+- [LearnGPT](https://www.learngpt.com)
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) 
 ... just follow [@goodside](https://twitter.com/goodside)
 
