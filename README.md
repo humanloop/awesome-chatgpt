@@ -38,6 +38,7 @@
 - [Google docs](https://github.com/cesarhuret/docGPT)
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
 - [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
+- [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
