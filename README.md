@@ -17,7 +17,7 @@
 ### API tools
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
-- [Unofficial API using a headless browser](https://github.com/transitive-bullshit/chatgpt-api)
+- [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 
 
@@ -25,10 +25,12 @@
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
 - [Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link](https://github.com/liady/ChatGPT-pdf)
-- [Chrome extension to add user `input history` (up/down arrow), `copy/copy all`, and `word/char counter` to ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
+- [Chrome extension to add input history, copy, and counters to ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
+- [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 
 
 ### Access ChatGPT from other platforms
+- [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
@@ -37,10 +39,19 @@
 - [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Google docs](https://github.com/cesarhuret/docGPT)
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
+- [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
+- [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
+
+### Social Tools
+- [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 
 
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
+- [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
+
+### Github Actions
+- [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) 
