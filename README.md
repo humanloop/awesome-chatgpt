@@ -25,6 +25,7 @@
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
 - [Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link](https://github.com/liady/ChatGPT-pdf)
+- [ChassistantGPT - embedsChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 
 
 ### Access ChatGPT from other platforms
