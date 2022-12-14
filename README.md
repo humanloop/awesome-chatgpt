@@ -28,6 +28,8 @@
 - [Chrome extension to add input history, copy, and counters to ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 
+### Firefox Extensions
+- [ChatGPT History - automatically saves your thread history](https://github.com/benf2004/ChatGPT-History)
 
 ### Access ChatGPT from other platforms
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
