@@ -29,7 +29,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 
 ### Firefox Extensions
-- [ChatGPT History - automatically saves your thread history](https://github.com/benf2004/ChatGPT-History)
+- [ChatGPT History - automatically saves your thread history, also works on chrome](https://github.com/benf2004/ChatGPT-History)
 
 ### Access ChatGPT from other platforms
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
