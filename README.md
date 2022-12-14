@@ -53,6 +53,7 @@
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
+- [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal)
 
 ### Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
