@@ -42,6 +42,7 @@
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
 - [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
 - [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
+- [Discord bot](https://github.com/Zero6992/chatGPT-discord-bot)
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
