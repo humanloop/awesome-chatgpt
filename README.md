@@ -56,6 +56,7 @@
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
 - [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
+- [Assistant CLI](https://github.com/diciaup/assistant-cli)
 
 ### Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
