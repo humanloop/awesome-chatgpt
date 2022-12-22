@@ -15,6 +15,8 @@
 #### ChatGPT Community / Discussion
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
+### Developer ressources
+- [VS Code Extension for AI created commit messages](https://marketplace.visualstudio.com/items?itemName=betterobjects.gicomai)
 
 ### API tools
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
