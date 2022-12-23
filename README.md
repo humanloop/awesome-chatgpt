@@ -53,6 +53,7 @@
 
 ### Applications
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
+- [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
