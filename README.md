@@ -71,8 +71,8 @@
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) 
 ... just follow [@goodside](https://twitter.com/goodside)
 
-
-
+### Discord bots
+- OpenAI GPT-3 (threaded discussions and image generation): [top.gg](https://top.gg/bot/1058008641959112796) | [support server](https://discord.gg/u8ehamrEea)
 
 ---
 
