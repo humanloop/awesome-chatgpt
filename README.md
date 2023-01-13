@@ -50,6 +50,7 @@
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
+- [Prompto - directory of community-submitted prompts](https://prompto.chat)
 
 ### Applications
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
