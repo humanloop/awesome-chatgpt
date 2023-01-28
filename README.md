@@ -63,8 +63,9 @@
 - [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
 
-### Github Actions
+### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
+- [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
 
 ### Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
