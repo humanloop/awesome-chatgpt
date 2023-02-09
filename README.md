@@ -47,7 +47,7 @@
 - [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
-- [ChatGPT for Google Colab](http://localhost:3000/chatgpt-for-google-colab)
+- [ChatGPT for Google Colab](https://alihkudeir.com/chatgpt-for-google-colab)
 
 
 ### Social Tools
