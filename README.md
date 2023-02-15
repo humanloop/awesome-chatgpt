@@ -74,6 +74,8 @@
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) 
 ... just follow [@goodside](https://twitter.com/goodside)
 
+### Books
+
 
 
 
