@@ -62,6 +62,7 @@
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
 - [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
+- [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 
 ### Github Actions
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
