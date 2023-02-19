@@ -1,5 +1,5 @@
-# Awesome ChatGPT 
-[![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40humanloop&style=social&url=https%3A%2F%2Ftwitter.com-humanloop)](https://twitter.com/humanloop) 
+# Awesome ChatGPT
+[![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40humanloop&style=social&url=https%3A%2F%2Ftwitter.com-humanloop)](https://twitter.com/humanloop)
 
 
 ![ChatGPT](/chatgpt-header.png)
@@ -53,9 +53,9 @@
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 
 ### Applications
+- [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
-- [Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
@@ -71,7 +71,7 @@
 - [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
 
 ### Example prompts
-- [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) 
+- [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
 ... just follow [@goodside](https://twitter.com/goodside)
 
 
@@ -82,4 +82,3 @@
 ### Contribution
 
 This list started as personal collection of interesting things about chatGPT from OpenAI. Your contributions and suggestions are warmly welcomed.
-
