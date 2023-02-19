@@ -65,8 +65,9 @@
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 
-### Github Actions
+### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
+- [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
 
 ### Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
