@@ -48,7 +48,7 @@
 - [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
-
+- [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): :cn: Add ChatGPT robot to DingTalk group chat
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
