@@ -68,6 +68,7 @@
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
 - [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
+- [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac)
 
 ### Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
