@@ -45,7 +45,8 @@
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
 - [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
-- [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
+- [Jetbrains IDE plugin](https://github.com/LiLittleCat/intellij-chatgpt) (WebView)
+- [Jetbrains IDE plugin](https://github.com/dromara/ChatGPT) (using OpenAI's API)
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 
