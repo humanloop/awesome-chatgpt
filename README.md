@@ -59,6 +59,7 @@
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 
 ### CLI tools
+- [Collection of ChatGPT powered CLIs](https://github.com/clevercli/clevercli)
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
 - [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
