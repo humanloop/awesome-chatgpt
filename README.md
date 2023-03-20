@@ -65,6 +65,7 @@
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
+- [Aoi - ChatGPT terminal version with shell execution and database query](https://github.com/shellfly/aoi)
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
