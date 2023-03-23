@@ -51,6 +51,8 @@
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 
+### Tutorials
+- [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
