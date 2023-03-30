@@ -50,6 +50,7 @@
 - [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
+- [TypingMind](https://www.typingmind.com) A better UI for ChatGPT (Paid app. Web and macOS app)
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
