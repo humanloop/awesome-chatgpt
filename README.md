@@ -63,6 +63,7 @@
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 
 ### CLI tools
+- [CommitAssist - AI generated commit messages](https://github.com/dejorrit/commit-assist)
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
 - [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
