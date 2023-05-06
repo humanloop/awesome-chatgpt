@@ -56,6 +56,7 @@
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
+- [AI-prompt-testing - chatgpt button for website to generate testing](https://github.com/icai/ai-prompt-testing)
 
 ### Applications
 - [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
