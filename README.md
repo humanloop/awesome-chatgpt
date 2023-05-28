@@ -15,7 +15,6 @@
 #### ChatGPT Community / Discussion
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
-
 ### API tools
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
@@ -25,7 +24,6 @@
 
 ### Client-side tools
 - [chatgpt.js - a powerful client-side JavaScript library for ChatGPT](https://chatgpt.js.org)
-
 
 ### Chrome Extensions
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
@@ -45,7 +43,6 @@
 - [Autoclear ChatGPT History - adds chat auto-clear functionality to ChatGPT for more privacy](https://chatgptevo.com/autoclear)
 - [ChatGPT Infinity - generates endless answers in any language](https://chatgptevo.com/infinity)
 - [ChatGPT Widescreen Mode - add widescreen/fullscreen modes to ChatGPT](https://chatgptevo.com/widescreen)
-
 
 ### Access ChatGPT from other platforms
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
