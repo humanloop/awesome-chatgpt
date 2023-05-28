@@ -64,6 +64,8 @@
 - [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
+- [DuckDuckGPT - adds ChatGPT to DuckDuckGo sidebar](https://www.duckduckgpt.com)
+- [BraveGPT - adds ChatGPT to Brave Search sidebar](https://www.bravegpt.com)
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
