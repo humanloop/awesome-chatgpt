@@ -35,7 +35,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
-- [ChatGPT Widescreen Mode - Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing](https://chatgptevo.com/widescreen)
+- [ChatGPT Widescreen Mode - add widescreen/fullscreen modes to ChatGPT](https://chatgptevo.com/widescreen)
 
 
 ### Access ChatGPT from other platforms
