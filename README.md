@@ -33,16 +33,17 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
-- [ChatGPT Widescreen Mode - add widescreen/fullscreen modes to ChatGPT](https://chatgptevo.com/widescreen)
+- [ChatGPT Infinity - generates endless answers in any language](https://chatgptinfinity.com)
+- [ChatGPT Widescreen Mode - add widescreen/fullscreen modes to ChatGPT](https://chatgptwidescreen.com)
 
 ### Greasemonkey userscripts
-- [ChatGPT Auto Refresh - keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks](https://chatgptevo.com/autorefresh)
+- [ChatGPT Auto Refresh - keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks](https://chatgptautorefresh.com)
 - [DuckDuckGPT - adds ChatGPT to DuckDuckGo sidebar](https://www.duckduckgpt.com)
 - [BraveGPT - adds ChatGPT to Brave Search sidebar](https://www.bravegpt.com)
 - [ChatGPT Auto-Continue - automatically continues generating multiple ChatGPT responses](https://chatgptevo.com/autocontinue)
 - [Autoclear ChatGPT History - adds chat auto-clear functionality to ChatGPT for more privacy](https://chatgptevo.com/autoclear)
-- [ChatGPT Infinity - generates endless answers in any language](https://chatgptevo.com/infinity)
-- [ChatGPT Widescreen Mode - add widescreen/fullscreen modes to ChatGPT](https://chatgptevo.com/widescreen)
+- [ChatGPT Infinity - generates endless answers in any language](https://chatgptinfinity.com)
+- [ChatGPT Widescreen Mode - add widescreen/fullscreen modes to ChatGPT](https://chatgptwidescreen.com)
 
 ### Access ChatGPT from other platforms
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
