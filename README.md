@@ -75,6 +75,7 @@
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
 - [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
 - [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac)
+- [I Don't Care About Commit Message (VS Code Extension)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)
 
 ### Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
