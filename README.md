@@ -11,6 +11,7 @@
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
+- [OpenAPI Based Top Finance News Using Comments and Tweets On Social Platforms](https://tradestie.com/apps/finance-news/social/)
 
 #### ChatGPT Community / Discussion
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
