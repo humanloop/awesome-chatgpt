@@ -43,6 +43,7 @@
 - [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram)
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT
 - [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension)
+- [Google Docs Add-on](https://workspace.google.com/u/0/marketplace/app/docgpt_ai_writer_for_docs/466607203252)
 - [Google docs](https://github.com/cesarhuret/docGPT)
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
