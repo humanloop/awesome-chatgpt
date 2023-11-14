@@ -85,6 +85,8 @@
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
 ... just follow [@goodside](https://twitter.com/goodside)
 
+### GPTs Store
+- [GPT Share: Share and Explore the interesting GPTs, just provide a link.](https://gptshare.io)
 
 
 
