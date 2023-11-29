@@ -20,6 +20,7 @@
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
+- [ChatGPT Prompts library in JS/TS](https://github.com/pacholoamit/chatgpt-prompts)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 
