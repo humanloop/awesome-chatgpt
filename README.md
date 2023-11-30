@@ -84,6 +84,8 @@
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [ChatGPT Rooms with Custom AI Prompts](https://github.com/Zizwar/PRoomy)
+
 ... just follow [@goodside](https://twitter.com/goodside)
 
 
