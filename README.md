@@ -77,6 +77,7 @@
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
 - [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
 - [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac)
+- [ChatGPT Slack Failure Hooks for ML Pipelines](https://docs.zenml.io/advanced-guide/pipelines/hooks#using-the-openai-chatgpt-failure-hook)
 
 ### Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
