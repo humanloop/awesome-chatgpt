@@ -11,6 +11,7 @@
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
+- [chatGPT Integration in Python](https://github.com/xiaowuc2/ChatGPT-Python-Applications)
 
 #### ChatGPT Community / Discussion
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
@@ -62,6 +63,7 @@
 - [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
+- [ChatGPT Applications :](https://github.com/xiaowuc2/ChatGPT-Python-Applications) `Python`
 
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
