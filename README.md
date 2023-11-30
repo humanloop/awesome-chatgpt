@@ -86,8 +86,8 @@
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
 ... just follow [@goodside](https://twitter.com/goodside)
 
-
-
+### Discord bots
+- SmartCord AI (powered by ChatGPT): [top.gg](https://top.gg/bot/1058008641959112796) | [website](https://smartcord.ai)
 
 ---
 
