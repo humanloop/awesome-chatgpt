@@ -84,6 +84,7 @@
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 ... just follow [@goodside](https://twitter.com/goodside)
 
 
