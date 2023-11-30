@@ -31,7 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
-
+- [Chrome Extension that helps to insert and manage common prompts to Bard, ChatGPT, and CharacterAI using a custom CLI interface](https://chrome.google.com/webstore/detail/prompt-helper/hnfmalnohiafmgdgbambfnmkmoflbpmp?hl=en&authuser=0)
 
 ### Access ChatGPT from other platforms
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
