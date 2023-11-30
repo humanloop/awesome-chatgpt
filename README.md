@@ -86,6 +86,9 @@
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
 ... just follow [@goodside](https://twitter.com/goodside)
 
+### Books
+- [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
+- [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer)
 
 
 
