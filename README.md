@@ -51,6 +51,7 @@
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [Interactive IRC Bot](https://github.com/oxagast/Franklin)
+- [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
@@ -71,6 +72,7 @@
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
+- [Promptform: Run GPT in bulk](https://github.com/jasonstitt/promptform)
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
