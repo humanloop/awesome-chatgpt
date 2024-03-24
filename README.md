@@ -31,7 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
-
+- [AI Chat Chrome Extension - get direct answers on search via Retrieval-Augmented Generation (RAG)](https://chromewebstore.google.com/detail/ai-chat/edlcpchefdlohaedkcgffdakmflpfpnd)
 
 ### Access ChatGPT from other platforms
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
@@ -51,6 +51,7 @@
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
+- [AI Chat](https://www.chatbar.top/) - Cross-platform desktop app that provides quick access to chatbots like ChatGPT from the menu bar.
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
