@@ -69,6 +69,7 @@
 - [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
 - [AI Commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
+- [ChatGPT REPL](https://github.com/evgenyrodionov/chatgpt_repl)
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
 - [Promptform: Run GPT in bulk](https://github.com/jasonstitt/promptform)
