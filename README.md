@@ -62,6 +62,7 @@
 - [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
+- [ChatGPT Translator: A translation desktop app based on Electron and ChatGPT](https://github.com/simpleapples/chatgpt-translator)
 
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
