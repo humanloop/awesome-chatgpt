@@ -47,7 +47,8 @@
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
 - [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
-- [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
+- [Jetbrains IDE plugin](https://github.com/LiLittleCat/intellij-chatgpt) (WebView)
+- [Jetbrains IDE plugin](https://github.com/dromara/ChatGPT) (using OpenAI's API)
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
