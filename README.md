@@ -31,6 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
+- [YouTube Video Summarizer with ChatGPT](https://github.com/LaurentiuGabriel/youtube-GPT-summarizer-chrome-extension)
 
 
 ### Access ChatGPT from other platforms
