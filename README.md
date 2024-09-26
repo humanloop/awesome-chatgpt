@@ -57,6 +57,7 @@
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
+- [Prompto - directory of community-submitted prompts](https://prompto.chat)
 
 ### Applications
 - [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
