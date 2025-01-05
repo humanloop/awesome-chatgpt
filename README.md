@@ -81,6 +81,7 @@
 ### Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
 - [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
+- [CavalierGPT - Cybersecurity & OSINT Investigations](https://chatgpt.com/g/g-Rddxw5Vyc-cavaliergpt-cybersecurity-osint-investigations)
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
