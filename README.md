@@ -22,6 +22,7 @@
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+- [Vedika Astrology API](https://vedika.io) - Vedic astrology API with AI chatbot that can be used as an OpenAI function/tool. 108+ endpoints for horoscopes, birth charts, kundali matching, and panchang calculations.
 
 ### Chrome Extensions
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
