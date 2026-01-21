@@ -32,6 +32,8 @@
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
 
+### Vector database
+- [Weaviate](https://github.com/weaviate/weaviate)
 
 ### Access ChatGPT from other platforms
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
