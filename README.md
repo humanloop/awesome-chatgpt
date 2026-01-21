@@ -34,6 +34,7 @@
 
 
 ### Access ChatGPT from other platforms
+- [no-code Telegram bot with chatgpt](https://onout.org/AiGram)
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
