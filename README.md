@@ -4,7 +4,7 @@
 
 ![ChatGPT](/chatgpt-header.png)
 
-> Curated list of resources for [ChatGPT](https://chat.openai.com) and GPT-3 from OpenAI
+> Curated list of resources for [ChatGPT](https://chat.openai.com) and GPT-3 from OpenAI. Chinese version can be found [Here-> awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
 
 #### GPT General Resources
 
