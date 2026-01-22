@@ -51,6 +51,7 @@
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
+- [BoltAI](https://boltai.com) — A beautiful & powerful ChatGPT app for Mac.
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
