@@ -17,6 +17,7 @@
 
 
 ### API tools
+- [Connect external data to ChatGPT APIs through a dashboard](https://github.com/ai-sidekick/sidekick)
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
