@@ -95,3 +95,5 @@
 ### Contribution
 
 This list started as personal collection of interesting things about chatGPT from OpenAI. Your contributions and suggestions are warmly welcomed.
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ real data records, LangChain/MCP integration.
