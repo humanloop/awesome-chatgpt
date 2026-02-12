@@ -63,6 +63,7 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
+- [Taskade](https://taskade.com) - AI-powered workspace for tasks, notes, mind maps, and real-time collaboration. Features custom AI agents with multi-model support (GPT-4o, Claude, Gemini), workflow automation, and 700+ prompt templates.
   
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
