@@ -63,7 +63,8 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
-  
+- [VisaCanvas: AI-powered US immigration eligibility assessment for EB-1A and NIW visas](https://visacanvas.com)
+
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
