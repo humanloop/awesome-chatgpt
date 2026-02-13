@@ -63,6 +63,7 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
+- [Taskade](https://www.taskade.com) - AI-powered productivity platform with 62+ tools for project management, tasks, and AI agents. Features a [Model Context Protocol (MCP) server](https://github.com/taskade/mcp) for integrating with ChatGPT, Claude, and other AI assistants.
   
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
