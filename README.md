@@ -63,6 +63,7 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
+- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month.
   
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
