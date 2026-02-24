@@ -82,6 +82,7 @@
 ### Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
 - [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
+- [BodAIGuard](https://github.com/AxonLabsDev/BodAIGuard) - Universal AI agent guardrail with 42 block rules, prompt injection detection, and 4 enforcement modes (hooks, proxy, prompt injection, REST API)
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
