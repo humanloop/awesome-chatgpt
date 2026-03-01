@@ -73,6 +73,7 @@
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
 - [Promptform: Run GPT in bulk](https://github.com/jasonstitt/promptform)
+- [OpenPaw: Turn Claude Code into a personal assistant with 38 skills](https://github.com/daxaur/openpaw) - email, calendar, Spotify, smart home, Slack, and more via `npx pawmode`. No daemon, no cloud.
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
