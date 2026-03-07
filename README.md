@@ -31,6 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
+- [flompt - Visual AI prompt builder extension for ChatGPT, Claude, and Gemini](https://flompt.dev) - Decomposes prompts into 12 semantic blocks visually, then injects the optimized prompt back into the chat. Chrome and Firefox.
 
 
 ### Access ChatGPT from other platforms
