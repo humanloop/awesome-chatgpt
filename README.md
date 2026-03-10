@@ -63,7 +63,9 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
-  
+- [WriteKit: Free AI writing tools — humanizer, email writer, resume bullets, LinkedIn posts, blog titles, and more](https://humanizetext-ai.vercel.app)
+- [DetectAI: Free AI content detector — analyzes text to determine if it was human-written or AI-generated](https://ai-content-detector-pi.vercel.app)
+
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
