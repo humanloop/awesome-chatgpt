@@ -51,6 +51,7 @@
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
+- [Enconvo](https://enconvo.com) - AI Agent Launcher for macOS. Context-aware AI assistant with SmartBar, PopBar, voice input, live captions, TTS, knowledge base, custom workflows, 100+ plugins. Supports ChatGPT/OpenAI, Claude, Gemini, and local models. macOS 14+ required.
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
