@@ -51,6 +51,7 @@
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
 - [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
+- [OpenClaw Easy Desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - Open-source desktop app for setting up AI assistants on WhatsApp, Telegram, Discord, Slack and more. BYOK (OpenAI, Anthropic, Google) or local models via Ollama. Cross-platform (macOS, Windows, Linux).
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
