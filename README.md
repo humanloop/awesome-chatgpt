@@ -23,6 +23,8 @@
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 
+- [Arch Tools](https://archtools.dev) - 58 API tools behind one key. MCP native + x402 USDC payments on 15 chains. Web scraping, AI generation, crypto, voice, email, and more.
+
 ### Chrome Extensions
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
