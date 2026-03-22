@@ -73,6 +73,7 @@
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
 - [Promptform: Run GPT in bulk](https://github.com/jasonstitt/promptform)
+- [Shep: Multi-session SDLC control center for AI coding agents](https://github.com/shep-ai/cli)
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
