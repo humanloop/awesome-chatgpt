@@ -95,3 +95,7 @@
 ### Contribution
 
 This list started as personal collection of interesting things about chatGPT from OpenAI. Your contributions and suggestions are warmly welcomed.
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
