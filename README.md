@@ -63,7 +63,8 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
-  
+- [CodeCosts: Side-by-side pricing comparison for AI coding tools (GitHub Copilot, Cursor, Windsurf, Claude Code, Gemini Code Assist)](https://codecosts.pages.dev)
+
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
