@@ -31,6 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
+- [Ajusta](https://ajusta.ai) - AI resume optimizer that scores resumes against Applicant Tracking Systems and provides keyword and rewrite suggestions. Chrome extension for LinkedIn and Indeed.
 
 
 ### Access ChatGPT from other platforms
