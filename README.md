@@ -11,6 +11,7 @@
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration with Claude Code. MIT licensed.
 
 #### ChatGPT Community / Discussion
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
