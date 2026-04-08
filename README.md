@@ -31,6 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
+- [Dassi - AI browser agent that automates work in Chrome — clicks, fills forms, navigates pages](https://dassi.ai)
 
 
 ### Access ChatGPT from other platforms
