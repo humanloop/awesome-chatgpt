@@ -23,6 +23,7 @@
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=humanloop_awesome-chatgpt) - Follow developers on GitHub and get a feed of what they star and build.
 ### Chrome Extensions
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension)
