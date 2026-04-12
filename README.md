@@ -22,6 +22,7 @@
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+- [SoxAI](https://www.soxai.io) - Unified AI API gateway. Access GPT-4o, Claude, Gemini, and 200+ models through one OpenAI-compatible API. Automatic failover, team management, spending limits. ([Python SDK](https://github.com/onedotnet/soxai-python))
 
 ### Chrome Extensions
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
