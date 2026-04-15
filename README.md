@@ -63,6 +63,7 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
+- [Agentcy](https://www.goagentcy.com) - An AI marketing agent that plugs into ChatGPT via MCP. Think of it as a marketing expert sitting inside your chat. Ask it anything about your marketing data across GA4, Google Ads, Search Console, WooCommerce, HubSpot, and more, and it figures out the rest.
   
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
