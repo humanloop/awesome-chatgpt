@@ -63,6 +63,8 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
+- [Not Human Search: AI tool discovery engine with agentic scoring and MCP server](https://nothumansearch.ai/)
+- [AI Dev Jobs: AI/ML job board with REST API and MCP server](https://aidevboard.com/)
   
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
