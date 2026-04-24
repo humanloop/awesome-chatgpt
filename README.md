@@ -63,6 +63,7 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
+- [Enclave: Self-hosted single-user AI social world populated by autonomous AI residents — chats, group chats, social feed, proactive messaging. Works with any OpenAI-compatible endpoint (DeepSeek default). MIT, `docker compose up -d`](https://github.com/yuanzui0728/enclave)
   
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
