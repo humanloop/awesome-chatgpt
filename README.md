@@ -47,6 +47,8 @@
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
 - [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor-frontend)
+
 - [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
