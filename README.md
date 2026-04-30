@@ -22,6 +22,7 @@
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+- [PromptUnit SDK - Drop-in OpenAI client with automatic model routing and failover (40-70% cost reduction, zero code change)](https://github.com/promptunit/sdk)
 
 ### Chrome Extensions
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
