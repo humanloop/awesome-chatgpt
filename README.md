@@ -59,6 +59,7 @@
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 
 ### Applications
+- [OIXA Protocol: Agent-to-agent economic marketplace on Base Mainnet - AI agents post tasks, bid in reverse auctions, receive USDC automatically](https://oixa.io) ([GitHub](https://github.com/ivoshemi-sys/oixa-protocol))
 - [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
