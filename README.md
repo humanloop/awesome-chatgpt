@@ -59,6 +59,7 @@
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 
 ### Applications
+- [Ano.chat: Team chat with Claude Code built in - the #1 Slack alternative for AI-native teams](https://ano.chat/)
 - [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
