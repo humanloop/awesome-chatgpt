@@ -78,6 +78,7 @@
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
 - [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
 - [AI-powered Infrastructure-as-Code Generator](https://github.com/gofireflyio/aiac)
+- [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, prompt-injection); integrates into CI/CD for regression gating on ChatGPT-powered applications.
 
 ### Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
