@@ -17,6 +17,7 @@
 
 
 ### API tools
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion for students. Google Classroom sync, Gemini-powered study plans, SRS flashcards, AI quiz generator, GPA predictor, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
