@@ -22,6 +22,7 @@
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+- [AI Model Gateway](https://github.com/SSC-STUDIO/Ai-Model-Gateway) - self-hosted Go LLM operations gateway for OpenAI-compatible and Anthropic-compatible routing, fallback, telemetry, benchmarking, config publishing, updates, and rollback
 
 ### Chrome Extensions
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
