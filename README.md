@@ -95,3 +95,4 @@
 ### Contribution
 
 This list started as personal collection of interesting things about chatGPT from OpenAI. Your contributions and suggestions are warmly welcomed.
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools with crypto payment, no subscriptions.
