@@ -17,6 +17,7 @@
 
 
 ### API tools
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and wallet identity verification for AI agents before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
