@@ -54,6 +54,7 @@
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
+- [Add live web search to an OpenAI app with function calling](https://superhighway.walls.sh/guides/web-search-openai-function-calling) - Use the chat.completions tools parameter with the Superhighway web search API (free key or x402 USDC pay-per-call) to give GPT models live, up-to-date results.
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
