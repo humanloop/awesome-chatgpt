@@ -44,6 +44,7 @@
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT
 - [Chrome extension](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [Google docs](https://github.com/cesarhuret/docGPT)
+- [GPT for Sheets](https://docgpt.ai/gpt-for-sheets) - Use ChatGPT and other AI models inside Google Sheets for formulas, enrichment, and bulk workflows.
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
 - [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
