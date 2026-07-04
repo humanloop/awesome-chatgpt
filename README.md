@@ -17,6 +17,7 @@
 
 
 ### API tools
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): 4 Markdown templates + 5 AI skills for giving AI agents deep personal context. MIT, one-command install.
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
 - [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT)
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
