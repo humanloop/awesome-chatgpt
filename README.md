@@ -22,6 +22,7 @@
 - [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api)
 - [Unofficial API in Dart](https://github.com/MisterJimson/chatgpt_api_dart)
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+- [DaoXE](https://daoxe.com/?utm_source=github&utm_medium=organic&utm_campaign=awesome_chatgpt) - OpenAI-compatible, multi-model, multi-protocol API gateway (also OpenAI Responses and Anthropic Messages). Point the OpenAI SDK at `https://daoxe.com/v1` to use Claude, GPT, Gemini, DeepSeek and more with one key. [Examples & benchmark](https://github.com/seven7763/DaoXE-AI).
 
 ### Chrome Extensions
 - [Chrome extension to access ChatGPT as a popup on any page](https://github.com/kazuki-sf/ChatGPT_Extension)
