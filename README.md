@@ -58,6 +58,9 @@
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 
+### UI libraries
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - Open-source streaming Markdown UI for AI chat applications, with packages for Vue, React, Svelte, and Angular.
+
 ### Applications
 - [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
