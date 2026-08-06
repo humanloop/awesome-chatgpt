@@ -85,6 +85,7 @@
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [AI Prompt Library](https://github.com/slashman413/ai-prompt-library) - 500+ curated, copy-paste prompt templates for ChatGPT/Claude/Gemini, free single-file browser tool with search & category filters
 ... just follow [@goodside](https://twitter.com/goodside)
 
 
