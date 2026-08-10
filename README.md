@@ -85,6 +85,7 @@
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/) - 924 free copy-and-run ChatGPT prompts for online stores (product descriptions, ads, email, SEO).
 ... just follow [@goodside](https://twitter.com/goodside)
 
 
