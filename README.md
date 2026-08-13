@@ -36,6 +36,7 @@
 ### Access ChatGPT from other platforms
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
+- [SARA](https://github.com/Alessandro114/sara) - Open-source multi-tenant WhatsApp AI agent with RAG, 20 vertical personas, and AGPL-3.0 license.
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
 - [VSCode extension](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 - [Emacs org-mode package](https://github.com/rksm/org-ai)
