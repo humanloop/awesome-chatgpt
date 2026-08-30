@@ -53,6 +53,7 @@
 - [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
 
 ### Tutorials
+- [Convert reviewed ChatGPT output to an editable Word template](https://github.com/loebpaul/chatgpt-to-word-template)
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
 
 ### Social Tools
