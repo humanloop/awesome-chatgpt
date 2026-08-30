@@ -31,6 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
+- [Stop the Slop - AI script detector and thumbnail badges for YouTube](https://github.com/MauroPello/stop-the-slop)
 
 
 ### Access ChatGPT from other platforms
