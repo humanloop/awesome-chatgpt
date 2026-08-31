@@ -73,6 +73,7 @@
 - [Use ChatGPT to generate PPT automatically, all in one single file](https://github.com/williamfzc/chat-gpt-ppt)
 - [SearchGPT: Connecting ChatGPT with the Internet](https://github.com/tobiasbueschel/search-gpt)
 - [Promptform: Run GPT in bulk](https://github.com/jasonstitt/promptform)
+- [Codex CLI Portable Setup Kit](https://github.com/2akouwu/codex-cli-portable-setup-kit) - Autonomous execution toolkit for OpenAI Codex CLI featuring dual-stage decoupled generation, elevated sandboxing, and pure-Python binary analysis.
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)
