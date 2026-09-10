@@ -82,6 +82,7 @@
 ### Cybersecurity
 - [Beelzebub ChatGPT Honeypot](https://github.com/mariocandela/beelzebub)
 - [Penetration Testing Findings Generator](https://github.com/Stratus-Security/FinGen)
+- [PasteGuard: Client-side secret/PII scanner before pasting into AI chats](https://github.com/ExtendedUser/pasteguard)
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
