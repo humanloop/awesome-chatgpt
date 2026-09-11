@@ -54,6 +54,7 @@
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
+- [AIGuideDZ](https://aiguidedz.com/ai-guide.html) - Free beginner tutorials and honest comparisons for ChatGPT, Claude, Gemini, and other AI tools.
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
