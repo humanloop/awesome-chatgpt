@@ -63,6 +63,7 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
+- [InBrief: AI news aggregator that collects, filters and summarizes AI content from 94 sources](https://github.com/frankzch/ai-news-brief)
   
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
