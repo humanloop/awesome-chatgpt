@@ -31,6 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
+- [Qarta - save prompts, insert them with "/", and keep a searchable library of your ChatGPT chats](https://chromewebstore.google.com/detail/qarta-prompt-library-ai-c/pbnjcimookgjappnnlfknfoepfhgepng)
 
 
 ### Access ChatGPT from other platforms
