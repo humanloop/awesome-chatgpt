@@ -63,6 +63,7 @@
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
+- [ChatGPT2Word: Paste a ChatGPT answer and download a .docx with native Word equations, tables and right-to-left (Arabic/Hebrew) paragraphs](https://chatgpt2word.com)
   
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
