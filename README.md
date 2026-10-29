@@ -85,6 +85,7 @@
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Satori](https://github.com/MetcalfSolutions/Satori) - Reflective dialogue persona for ChatGPT and coding agents with continuity notes, built to be outgrown: success is needing it less, not using it more.
 ... just follow [@goodside](https://twitter.com/goodside)
 
 
