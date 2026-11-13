@@ -50,7 +50,7 @@
 - [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
 - [ChatGPT for Slack Bot](https://github.com/pedrorito/ChatGPTSlackBot)
 - [ChatGPT for Discord Bot](https://github.com/m1guelpf/chatgpt-discord)
-- [Poly Duo (C1M)](https://github.com/vadimchernets/c1m-duo) - iPhone Shortcut where ChatGPT answers and Claude checks it, using the official Ask ChatGPT / Ask Claude actions on your own accounts (no API keys)
+- [Poly Duo (C1M)](https://github.com/vadimchernets/c1m-duo) - iPhone Shortcut where ChatGPT answers and Claude checks it, using the official Ask ChatGPT / Ask Claude actions on your own accounts (no API keys). Website: https://polyhelper.ai/duo/
 - [MindMac](https://mindmac.app) - An intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
 
 ### Tutorials
