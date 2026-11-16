@@ -59,6 +59,7 @@
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 
 ### Applications
+- [HumanPen: Document-level AI writing & editing platform (Humanize for DOCX/PPTX/TXT, Condense for DOCX word-budget, 12-style Citation Format Correction, 12-language Translate; 100 signup credits, credit-based pricing)](https://humanpen.net/)
 - [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
