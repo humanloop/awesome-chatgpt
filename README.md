@@ -59,12 +59,11 @@
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
 
 ### Applications
-- [HumanPen: Document-level AI writing & editing platform (Humanize for DOCX/PPTX/TXT, Condense for DOCX word-budget, 12-style Citation Format Correction, 12-language Translate; 100 signup credits, credit-based pricing)](https://humanpen.net/)
 - [Adrenaline: Debugger that fixes errors and explains them with GPT-3](https://github.com/shobrook/adrenaline/)
 - [ChatARKit: Using ChatGPT to Create AR Experiences with Natural Language](https://github.com/trzy/ChatARKit)
 - [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
 - [GitBrain: Native git client for Mac powered by OpenAI API - provides suggestions for git operations](https://gitbrain.dev)
-- [HumanPen: Research workflow platform for scoping, proposed planning (credits charged by actual usage, including scoping; no upfront plan price), data analysis, literature organization, and file/code/chart delivery with optional budget-capped autonomy, A2A 1.0, and REST API](https://humanpen.net)
+- [HumanPen: Document editing, translation, citation formatting, and credit-based research projects](https://humanpen.net/)
   
 ### CLI tools
 - [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
