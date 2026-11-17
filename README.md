@@ -31,6 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
+- [Open in AI Agent for Gmail - right-click Gmail threads to open separate sessions in ChatGPT, Codex, Claude or Gemini](https://github.com/thomasoclegg/gmail-to-agent)
 
 
 ### Access ChatGPT from other platforms
