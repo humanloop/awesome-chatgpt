@@ -85,6 +85,7 @@
 
 ### Example prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [cn-personas - six Chinese role-play persona prompt packs to practice difficult conversations](https://github.com/meiqiu912/cn-personas)
 ... just follow [@goodside](https://twitter.com/goodside)
 
 
